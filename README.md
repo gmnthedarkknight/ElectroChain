@@ -1,4 +1,4 @@
-## LEMs on Blockchains
+## Electro Chain 
 
 This repository contains the implementation of a blockchain-based local energy market (LEM) based on the Landau Microgrid Project. It contains a smart contract acting as central market place and automated agents to run simulations.
 
